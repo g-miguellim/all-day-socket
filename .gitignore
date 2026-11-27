@@ -1,0 +1,17 @@
+data/
+*.npz
+*.pt
+*.pkl
+*.stl
+
+# Downloaded shape model
+OpenLimbTT
+
+# Python and notebook clutter
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+
+# OS files
+.Ds_Store
+Thumbs.db
